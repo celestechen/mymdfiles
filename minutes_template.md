@@ -20,12 +20,12 @@ Meeting Minutes
  - subitem2
     - sub-subitem1
 
+**Action Items**
 
 **Other Info**
 
-
-
-
 Please take a look at the [link_name][1]. Thanks!
+
+**Next Meeting**
 
 [1]: https://github.com
