@@ -55,7 +55,6 @@ Inline-style:
 
 Please take a look at the [link_name][1]. Thanks!
 
-**Next Meeting**
-TBD
+**Next Meeting**  TBD
 
 [1]: https://github.com
