@@ -11,6 +11,8 @@ Meeting Minutes
 
 **Agenda**
 
+**Purpose**
+
 **Item Discussed**
 
 - Item1
@@ -25,11 +27,11 @@ Meeting Minutes
 
 **Action Items**
 
-| ITEMS | RESPONSIBILITY | DUE DATE |
-| ----- | ---------------| -------- |
-| ITEM1 | XINWEI CHEN | 02/01/2016|
-| ITEM2 | XINWEI CHEN | 03/01/2016|
-| ITEM3 | XINWEI CHEN | 04/01/2016|
+| PROJECT | ACTION | NOTES | DUE DATE |
+| ------- | ------ | ----- | -------- |
+| CALL-THROUGH | Xinwei will converge data from all the three waves into a single public dataset. | Dan said... | 02/01/2016|
+| BIG DATA | XINWEI CHEN | | 03/01/2016|
+| PHC4 | XINWEI CHEN | | 04/01/2016|
 
 
 **Other Info**
