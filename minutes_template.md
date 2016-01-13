@@ -1,5 +1,5 @@
 Meeting Minutes
--------------------------
+----------------------
 
 **Date & Time**     Monday, 01/04/2016, 11:00am
 
@@ -20,9 +20,44 @@ Meeting Minutes
  - subitem2
     - sub-subitem1
 
+> Dan suggests that we do this and that.
+
+
 **Action Items**
 
+| ITEMS | RESPONSIBILITY | DUE DATE |
+| ----------|:------------------ ---- :| --------------: |
+| ITEM1| XINWEI CHEN| 02/01/2016|
+| ITEM2| XINWEI CHEN| 03/01/2016|
+ |ITEM3| XINWEI CHEN| 04/01/2016|
+
+
+
+
+
+
+
 **Other Info**
+
+Highlighting something
+
+```sas
+proc print data=what;
+run;
+```
+```stata
+decribe data
+```
+```
+Isn't this just AWESOME?
+```
+
+
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![insert any text here](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 
 Please take a look at the [link_name][1]. Thanks!
 
