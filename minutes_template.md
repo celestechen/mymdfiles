@@ -26,15 +26,10 @@ Meeting Minutes
 **Action Items**
 
 | ITEMS | RESPONSIBILITY | DUE DATE |
-| ----------|:------------------ ---- :| --------------: |
-| ITEM1| XINWEI CHEN| 02/01/2016|
-| ITEM2| XINWEI CHEN| 03/01/2016|
- |ITEM3| XINWEI CHEN| 04/01/2016|
-
-
-
-
-
+| ----- | ---------------| -------- |
+| ITEM1 | XINWEI CHEN | 02/01/2016|
+| ITEM2 | XINWEI CHEN | 03/01/2016|
+| ITEM3 | XINWEI CHEN | 04/01/2016|
 
 
 **Other Info**
@@ -52,7 +47,6 @@ decribe data
 Isn't this just AWESOME?
 ```
 
-
 Here's our logo (hover to see the title text):
 
 Inline-style: 
@@ -62,5 +56,6 @@ Inline-style:
 Please take a look at the [link_name][1]. Thanks!
 
 **Next Meeting**
+TBD
 
 [1]: https://github.com
