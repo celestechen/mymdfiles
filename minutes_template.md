@@ -27,11 +27,11 @@ Meeting Minutes
 
 **Action Items**
 
-| PROJECT | ACTION | NOTES | DUE DATE |
-| ------- | ------ | ----- | -------- |
-| CALL-THROUGH | Xinwei will converge data from all the three waves into a single public dataset. | Dan said... | 02/01/2016|
-| BIG DATA | XINWEI CHEN | | 03/01/2016|
-| PHC4 | XINWEI CHEN | | 04/01/2016|
+| PROJECT | ACTION | NOTES | DUE DATE | PRIORITY |
+| ------- | ------ | ----- | -------- | -------- |
+| CALL-THROUGH | 1. Xinwei will converge data from all the three waves into a single public dataset. <BR> 2. Xinwei will contact XXX. | Dan said... | 02/01/2016| HIGH |
+| BIG DATA | XINWEI CHEN | | 03/01/2016| |
+| PHC4 | XINWEI CHEN | | 04/01/2016| |
 
 
 **Other Info**
