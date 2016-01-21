@@ -1,21 +1,27 @@
 Meeting Minutes
 ----------------------
 
-**Date & Time**     Wednesday, 01/20/2016, 4:00pm
+**Date & Time**     
 
-**Duration** 1 hour
+Wednesday, 01/20/2016, 4:00-5:00pm
 
-**Attendees** Dan, Bill, Xinwei
+**Attendees** 
 
-**Room** Chestnut Room, 210 CPC
+Dan, Bill, Xinwei
 
-**Agenda** 
+**Room** 
+
+Chestnut Room, 210 CPC
 
 **Purpose**
 
+- First meeting for Bill and Xinwei on Bill's HCCI Commercial ACO project
+
 **Item Discussed**
 
-- Item1
+- HCCI Commercial ACO project
+ - 
+
 
 - Call-Thru Project
  - Dan reorganized Stata files and notes; created a dropbox folder ```public use files``` and invited Zuleyha and Xinwei to join.
@@ -23,7 +29,6 @@ Meeting Minutes
  - Next steps: 
    - Discuss 
 
-> Dan suggests that we do this and that.
 
 
 **Action Items**
