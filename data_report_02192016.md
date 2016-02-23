@@ -20,8 +20,3 @@ RWJ Sepsis Data Report Outline_02/26/16
 |LOS should be equal to day_length| Yes can confidently confirm that.|
 |Frequency table for service code|P12-14|
 |Frequency table for service description| P12-14 |
-
-
-
-
-
