@@ -17,7 +17,7 @@ RWJ Sepsis Data Report Outline
 |Frequency table for order_name|--P11|
 |Frequency table for order_type_description|--P11|
 |Pull 10 records and list all potential variables, will be able to see some of the values being reported|Sent in email ```sepsis_sample_10.xlsx``` |
-|LOS should be equal to day_length| Yes can confidently confirm this.|
+|LOS should be equal to day_length| Yes can confidently confirm that.|
 |Frequency table for service code|P12-14|
 |Frequency table for service description| P12-14 |
 
