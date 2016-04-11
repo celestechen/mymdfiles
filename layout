@@ -1,0 +1,44 @@
+PHC4 Data File Layouts
+-------------
+**Record Identification**
+Unique Sequence Number, Year, Quarter
+
+**Facility Identification**
+PA Facility Number (PAF), Facility Region Code
+
+**Patient Data**
+Sex, Ethnic, Race, Age, PseudoID
+Zip code, County, State, Accident state
+
+**Admission Data**
+Type of visit, Point of origin, Admission hour, Admission Diagnosis, Admission day of week
+
+**Discharge Data**
+Discharge status, Length of stay(inpatient data only), Discharge hour, Discharge day of week
+
+**Diagnosis Codes**
+External cause of injury (1-3), External cause of injury POA indicator (1-3) (inpatient only)
+Principal Diagnosis, Principal Diagnosis Code POA Indicator (inpatient only)
+Secondary Diagnosis (1-17), Secondary Diagnosis POA Indicator (1-17) (inpatient only)
+
+**Procedure Codes (inpatient only)**
+Principal Procedure Code
+Secondary Procedure Code (1-5)
+
+**Procedure Day of Week  (inpatient only)**
+Principal Procedure Day
+Secondary Procedure (1-5) Day
+
+**PA State License Number**
+Referring Physician, Attending Physician, Operating Physician, Other Provider
+
+**Payer Identification**
+Primary Payer, Secondary Payer, Tertiary Payer, Payer ID/Health Plan ID (NAIC)
+
+**Additional Data Elements**
+Type of Bill
+*inpatient only:* Prospective Payment System (PPS) Code, PHC4 assigned DRG, MS-DRG Grouper Version, Major Diagnostic Category (MDC)
+
+**Summary Charges**
+Room & Board, Ancillary, Drug, Equipment, Specialty, Miscellaneous Charges
+Total Charges, Non-covered Charges, Professional Fees
